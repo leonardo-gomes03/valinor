@@ -22,6 +22,25 @@ Esse projeto tem como base buscar algumas informações sobre o jogo Valorant, d
 - Na aba "Skins" você pode ver cada skin individualmente do jogo, e tambem pode buscar por alguma especifica(Ex: Se digitar Vandal, verá todas as skins da arma Vandal. Enquanto se digitar Glitchpop, verá todas as armas da coleção Glitchpop)
 
 ## Respostas
+<h2 id="images">Imagens do projeto</h2>
+
+# Tela principal
+![alt](img/telaPrincipal.png)
+# Tela de opções
+![alt](img/telaSelecao.png)
+# Tela de agentes
+![alt](img/telaAgentes.png)
+# Tela de Pacotes
+![alt](img/telaPacotes.png)
+# Tela de Skins
+![alt](img/telaSkins.png)
+# Busca por Arma
+![alt](img/buscaArma.png)
+# Busca por Skin
+![alt](img/buscaPacote.png)
+
+<h2 id="respostas">Respostas</h2>
+
 ### 1-Qual ferramentas e bibliotecas (libraries, framework, tools etc) você usou?
 Foi feito todo em framework com algumas adições como o Paginator(ngx-paginator)
 
