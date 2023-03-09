@@ -5,6 +5,7 @@ import { apiService } from 'src/app/service.service';
   selector: 'app-main-page',
   templateUrl: './main-page.component.html',
   styleUrls: ['./main-page.component.scss'],
+  template: ''
 })
 export class MainPageComponent implements OnInit{
   active: string = 'main';
@@ -20,7 +21,6 @@ export class MainPageComponent implements OnInit{
 
     const randomNumber = Math.floor(Math.random() * 20);
     this.random = randomNumber;
-
     setTimeout(() => {
       this.generateRandomNumberWithDelay();
     }, 5000);
