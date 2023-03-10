@@ -5,23 +5,32 @@ Email: leogomes.pereira03@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/leonardo-gomes03/
 
 ## Documentação do projeto
+
+* [Sobre o Projeto](#about)
+* [Funcionalidades](#functions)
+* [Exemplo](#example)
+* [Imagens](#images)
+* [Respostas](#respostas)
+
 ### Valorant API
 
-### Api para busca de informações sobre o jogo Valorant
+<h2 id="about">Sobre o Projeto</h2>
+
 Esse projeto tem como base buscar algumas informações sobre o jogo Valorant, dentre as informações recebidas estão: Os agentes disponiveis para jogar, Os pacotes lançados e as Skins individuais de cada arma e coleção.
 
-### Funcionalidades do projeto
+<h2 id ="functions">Funcionalidades do projeto</h2>
+
 - Ver os agentes e suas descrições
 - Ver os pacotes de skins de forma individual
 - Ver as skins de forma individual, e buscar por cada uma
 
-### Exemplo de utilização
+<h2 id="example">Exemplo de utilização</h2>
+
 - Clique no botão inicial para começar
 - Na aba "Agentes" você pode ver cada agente, sua foto e sua descrição
 - Na aba "Pacotes" você pode ver cada pacote de skins do jogo, junto com seu nome e sua foto
 - Na aba "Skins" você pode ver cada skin individualmente do jogo, e tambem pode buscar por alguma especifica(Ex: Se digitar Vandal, verá todas as skins da arma Vandal. Enquanto se digitar Glitchpop, verá todas as armas da coleção Glitchpop)
 
-## Respostas
 <h2 id="images">Imagens do projeto</h2>
 
 # Tela principal
